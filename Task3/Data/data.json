@@ -1,0 +1,46 @@
+[
+    {
+        "firstName": "MD. Sazib",
+        "lastName": "Ahmed",
+        "age": "23",
+        "designation": "Junior Programmer",
+        "preferredLanguage1": "JAVA",
+        "preferredLanguage2": "PHP",
+        "preferredLanguage3": "C++",
+        "email": "sazibahmed9@gmail.com",
+        "password": "`11234576"
+    },
+    {
+        "firstName": "MD. Sazib",
+        "lastName": "Ahmed",
+        "age": "43",
+        "designation": "Senior Programmer",
+        "preferredLanguage1": null,
+        "preferredLanguage2": "PHP",
+        "preferredLanguage3": null,
+        "email": "sazibahmed9@gmail.com",
+        "password": "qertwertfgr"
+    },
+    {
+        "firstName": "Yamlik",
+        "lastName": "Abdullah",
+        "age": "22",
+        "designation": "Senior Programmer",
+        "preferredLanguage1": null,
+        "preferredLanguage2": "PHP",
+        "preferredLanguage3": "C++",
+        "email": "sazibahmed9@gmail.com",
+        "password": "1234253647586978675645"
+    },
+    {
+        "firstName": "MD. Sazib",
+        "lastName": "Ahmed",
+        "age": "24312",
+        "designation": "Senior Programmer",
+        "preferredLanguage1": "JAVA",
+        "preferredLanguage2": null,
+        "preferredLanguage3": null,
+        "email": "sazibahmed9@gmail.com",
+        "password": "23453647586798"
+    }
+]
